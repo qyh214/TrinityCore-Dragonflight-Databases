@@ -1,0 +1,137 @@
+VER 3 0100000000000002 "CE_Items" "3193416"
+.additem 62540
+.additem 85870
+.additem 85871
+.additem 109013
+.additem 109014
+.additem 128425
+.additem 128426
+.additem 153539
+.additem 153540
+.additem 153541
+.learn 307932
+.additem 172177
+.additem 172179
+.learn 359855
+.additem 188257
+.additem 188256
+END
+VER 3 0100000000000003 "CE_Items2" "3193416"
+.additem 193610
+.additem 193588
+.learn 359805
+.learn 359843
+END
+VER 3 0100000000000001 "Classic_CE_Items" "3193416"
+.additem 25535
+.additem 39656
+.additem 13584
+.additem 30360
+.additem 13583
+.additem 49665
+.additem 39286
+.additem 13582
+.additem 37719
+.additem 54452
+.additem 93672
+END
+VER 3 0100000000000008 "Feuerkammornat" "3193416"
+.additem 191616
+.additem 191617
+.additem 191618
+.additem 191619
+.additem 191620
+.additem 191621
+.additem 191622
+.additem 191774
+.additem 191775
+.additem 191776
+.additem 191779
+.additem 191627
+.additem 191628
+END
+VER 3 010000000000000B "Games" "3193416"
+.additem 128423
+.additem 76062
+.additem 191114
+END
+VER 3 0100000000000009 "Grimmlingflitzer" "3193416"
+.additem 172373
+.additem 172374
+.additem 172375
+.additem 172376
+.additem 172377
+.additem 172378
+.additem 172379
+.additem 172380
+END
+VER 3 010000000000000A "Himmelsbeobachte" "3193416"
+.additem 184829
+.additem 184830
+.additem 184831
+.additem 184832
+.additem 184833
+.additem 184834
+.additem 184835
+.additem 184836
+.additem 184837
+END
+VER 3 0100000000000006 "Pets" "3193416"
+.additem 118516
+.additem 92707
+.additem 160588
+.additem 128424
+.additem 98550
+.additem 109014
+.additem 128426
+.additem 141893
+.additem 190586
+.additem 85871
+.additem 151234
+.additem 78916
+.additem 153541
+.additem 147900
+.additem 160587
+END
+VER 3 0100000000000007 "Shopitems" "3193416"
+.additem 166779
+.additem 166777
+.additem 166778
+.additem 173296
+.additem 173297
+.additem 171361
+.additem 173299
+.additem 171333
+.additem 173300
+END
+VER 3 0100000000000004 "Shopmounts" "3193416"
+.learn 386452
+.learn 369451
+.learn 155741
+.learn 142878
+.learn 307932
+.learn 124659
+.learn 189998
+.learn 290134
+.learn 110051
+.learn 153489
+.learn 308087
+.learn 243512
+.learn 180545
+.learn 259395
+.learn 255695
+.learn 347812
+.learn 367676
+.learn 308078
+END
+VER 3 0100000000000005 "Shopmounts2" "3193416"
+.learn 326390
+.learn 317177
+.learn 290132
+.learn 272770
+.learn 346136
+.learn 290133
+.learn 163024
+.learn 359317
+.learn 302361
+END
