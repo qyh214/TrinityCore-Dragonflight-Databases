@@ -1,4 +1,4 @@
-VER 3 0100000000000002 "CE_Items" "3193416"
+VER 3 0000000000000002 "CE_Items" "3193416"
 .additem 62540
 .additem 85870
 .additem 85871
@@ -16,13 +16,13 @@ VER 3 0100000000000002 "CE_Items" "3193416"
 .additem 188257
 .additem 188256
 END
-VER 3 0100000000000003 "CE_Items2" "3193416"
+VER 3 0000000000000003 "CE_Items2" "3193416"
 .additem 193610
 .additem 193588
 .learn 359805
 .learn 359843
 END
-VER 3 0100000000000001 "Classic_CE_Items" "3193416"
+VER 3 0000000000000001 "Classic_CE_Items" "3193416"
 .additem 25535
 .additem 39656
 .additem 13584
@@ -35,7 +35,7 @@ VER 3 0100000000000001 "Classic_CE_Items" "3193416"
 .additem 54452
 .additem 93672
 END
-VER 3 0100000000000008 "Feuerkammornat" "3193416"
+VER 3 0000000000000008 "Feuerkammornat" "3193416"
 .additem 191616
 .additem 191617
 .additem 191618
@@ -50,12 +50,12 @@ VER 3 0100000000000008 "Feuerkammornat" "3193416"
 .additem 191627
 .additem 191628
 END
-VER 3 010000000000000B "Games" "3193416"
+VER 3 000000000000000B "Games" "3193416"
 .additem 128423
 .additem 76062
 .additem 191114
 END
-VER 3 0100000000000009 "Grimmlingflitzer" "3193416"
+VER 3 0000000000000009 "Grimmlingflitzer" "3193416"
 .additem 172373
 .additem 172374
 .additem 172375
@@ -65,7 +65,7 @@ VER 3 0100000000000009 "Grimmlingflitzer" "3193416"
 .additem 172379
 .additem 172380
 END
-VER 3 010000000000000A "Himmelsbeobachte" "3193416"
+VER 3 000000000000000A "Himmelsbeobachte" "3193416"
 .additem 184829
 .additem 184830
 .additem 184831
@@ -76,24 +76,178 @@ VER 3 010000000000000A "Himmelsbeobachte" "3193416"
 .additem 184836
 .additem 184837
 END
-VER 3 0100000000000006 "Pets" "3193416"
+VER 3 000000000000000C "Items1" "135358"
+.additem 68825
+.additem 49282
+.additem 54069
+.additem 72582
+.additem 79771
+.additem 93671
+.additem 49290
+.additem 68008
+.additem 49283
+.additem 49284
+.additem 23720
+.additem 69228
+.additem 71718
+.additem 72575
+.additem 54068
+END
+VER 3 0000000000000013 "Items10" "135358"
+.additem 164571
+.learn 348162
+.learn 309452
+END
+VER 3 000000000000000D "Items2" "135358"
+.additem 49285
+.additem 49286
+.additem 38050
+.additem 23713
+.additem 34493
+.additem 49287
+.additem 32588
+.additem 34492
+.additem 49343
+.additem 79744
+.additem 72134
+.additem 93669
+.additem 68840
+.additem 67128
+.additem 50301
+END
+VER 3 000000000000000E "Items3" "135358"
+.additem 68841
+.additem 71624
+.additem 72153
+.additem 38050
+.additem 49704
+.additem 79769
+.additem 38301
+.additem 33223
+.additem 45063
+.additem 69227
+.additem 33219
+.additem 35227
+.additem 67097
+.additem 32542
+.additem 54212
+END
+VER 3 000000000000000F "Items4" "135358"
+.additem 72159
+.additem 46780
+.additem 34499
+.additem 49703
+.additem 32566
+.additem 71628
+.additem 72161
+.additem 38578
+.additem 69215
+.additem 38314
+.additem 38312
+.additem 38309
+.additem 38313
+.additem 38311
+.additem 38310
+END
+VER 3 0000000000000010 "Items5" "135358"
+.additem 23709
+.additem 23705
+.additem 45037
+.additem 49289
+.additem 49288
+.additem 54455
+.additem 38577
+.additem 46779
+.additem 38233
+.additem 45047
+.additem 35223
+.additem 206167
+.additem 204183
+.additem 204082
+.additem 204086
+END
+VER 3 0000000000000011 "Items6" "135358"
+.additem 204091
+.additem 118515
+.additem 106246
+.learn 307263
+.learn 307256
+.additem 83086
+.additem 54860
+.additem 171363
+.additem 43599
+.additem 151617
+.additem 151618
+.additem 20371
+.additem 32498
+.additem 118517
+.additem 46802
+END
+VER 3 0000000000000012 "Items7" "135358"
+.additem 141894
+.additem 141895
+.additem 106244
+.additem 128427
+.additem 71726
+.additem 22781
+.additem 67418
+.additem 19055
+.additem 19054
+.additem 33079
+.additem 163986
+.additem 163987
+.additem 163985
+.additem 163984
+.learn 302362
+END
+VER 3 0000000000000014 "Items8" "135358"
+.additem 95341
+.additem 54811
+.additem 97989
+.additem 112327
+.additem 78924
+.additem 166774
+.additem 107951
+.additem 147901
+.additem 122469
+.additem 156564
+.additem 92724
+.additem 166776
+.additem 160589
+.additem 166775
+.additem 112326
+END
+VER 3 0000000000000015 "Items9" "135358"
+.additem 69846
+.additem 106240
+.additem 188837
+.additem 70099
+.additem 49693
+.additem 68385
+.additem 54847
+.additem 68384
+.additem 112324
+.additem 95475
+.additem 97213
+.additem 95474
+.learn 309452
+.additem 49662
+.additem 49663
+END
+VER 3 0000000000000006 "Pets" "3193416"
 .additem 118516
 .additem 92707
 .additem 160588
 .additem 128424
 .additem 98550
-.additem 109014
-.additem 128426
 .additem 141893
 .additem 190586
-.additem 85871
 .additem 151234
 .additem 78916
-.additem 153541
 .additem 147900
 .additem 160587
 END
-VER 3 0100000000000007 "Shopitems" "3193416"
+VER 3 0000000000000007 "Shopitems" "3193416"
 .additem 166779
 .additem 166777
 .additem 166778
@@ -103,13 +257,13 @@ VER 3 0100000000000007 "Shopitems" "3193416"
 .additem 173299
 .additem 171333
 .additem 173300
+.additem 204888
 END
-VER 3 0100000000000004 "Shopmounts" "3193416"
+VER 3 0000000000000004 "Shopmounts" "3193416"
 .learn 386452
 .learn 369451
 .learn 155741
 .learn 142878
-.learn 307932
 .learn 124659
 .learn 189998
 .learn 290134
@@ -124,7 +278,7 @@ VER 3 0100000000000004 "Shopmounts" "3193416"
 .learn 367676
 .learn 308078
 END
-VER 3 0100000000000005 "Shopmounts2" "3193416"
+VER 3 0000000000000005 "Shopmounts2" "3193416"
 .learn 326390
 .learn 317177
 .learn 290132
